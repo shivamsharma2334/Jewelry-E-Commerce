@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "title": "Maharani Kankans",
+    "review": 4.7,
+    "karat": "22K",
+    "gold_weight": "36 grams",
+    "category": "bangles",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw66967a69/images/hi-res/516061VAJ1A00_1.jpg?sw=640&sh=640",
+    "price": 35000
+  },
+  {
+    "id": 2,
+    "title": "Royal Gorget",
+    "review": 4.9,
+    "karat": "18K",
+    "gold_weight": "28 grams",
+    "category": "necklace",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwdc0e6e0c/images/hi-res/5110692ZWAAA00_3.jpg?sw=640&sh=640",
+    "price": 185000
+  },
+  {
+    "id": 3,
+    "title": "Chandlier Earrings",
+    "review": 4.5,
+    "karat": "22K",
+    "gold_weight": "12 grams",
+    "category": "earrings",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc8cd8a41/images/hi-res/51D5B1JHOABA00_1.jpg?sw=640&sh=640",
+    "price": 54000
+  },
+  {
+    "id": 4,
+    "title": "Lotus Bloom Ring",
+    "review": 4.2,
+    "karat": "18K",
+    "gold_weight": "4 grams",
+    "category": "rings",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw908fe0fa/images/hi-res/511920FCMAA00.jpg?sw=640&sh=640",
+    "price": 15000
+
+  },
+  {
+    "id": 5,
+    "title": "Heritage Bridal Necklace",
+    "review": 5.0,
+    "karat": "22K",
+    "gold_weight": "42 grams",
+    "category": "necklace",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa78ace0e/images/hi-res/5132202PL1BA00_1.jpg?sw=640&sh=640",
+    "price": 215000
+  },
+  {
+    "id": 6,
+    "title": "Floral Motif Gold Earrings",
+    "review": 4.4,
+    "karat": "22K",
+    "gold_weight": "10 grams",
+    "category": "earrings",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1f64c5d8/images/hi-res/510895DYAAGA00_1.jpg?sw=640&sh=640",
+    "price": 46000
+  },
+  {
+    "id": 7,
+    "title": "Dual Toned Gold Bracelet",
+    "review": 4.6,
+    "karat": "22K",
+    "gold_weight": "40 grams",
+    "category": "bangles",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcbc20efb/images/hi-res/513018BTSAA00.jpg?sw=640&sh=640",
+    "price": 117000
+  },
+  {
+    "id": 8,
+    "title": "Entrancing Leaf Pattern Gold Finger Ring",
+    "review": 4.8,
+    "karat": "18K",
+    "gold_weight": "6 grams",
+    "category": "rings",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5d1d4f38/images/hi-res/510784FNAAA00_2.jpg?sw=640&sh=640",
+    "price": 38000
+  },
+  {
+    "id": 9,
+    "title": "Graceful Choker Necklace",
+    "review": 4.7,
+    "karat": "18K",
+    "gold_weight": "24 grams",
+    "category": "necklace",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1e57ad6f/images/hi-res/51W1D12GZ1BA00_1.jpg?sw=640&sh=640",
+    "price": 160000
+  },
+  {
+    "id": 10,
+    "title": "Elegant Loop Earrings",
+    "review": 4.3,
+    "karat": "22K",
+    "gold_weight": "8 grams",
+    "category": "earrings",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwca184e4d/images/hi-res/51D5P1DNGABA00_1.jpg?sw=640&sh=640",
+    "price": 37000
+
+  },
+  {
+    "id": 11,
+    "title": "Twist Design Gold Ring",
+    "review": 4.1,
+    "karat": "18K",
+    "gold_weight": "5 grams",
+    "category": "rings",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw31149a4c/images/hi-res/51D5B1FZEAACZ_2.jpg?sw=640&sh=640",
+    "price": 18000
+  },
+  {
+    "id": 12,
+    "title": "Antique Filigree Bangles",
+    "review": 4.9,
+    "karat": "22K",
+    "gold_weight": "34 grams",
+    "category": "bangles",
+    "imglink": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe3f9a9da/images/hi-res/51D5P1BFAAA00_1.jpg?sw=640&sh=640",
+    "price": 42500
+  }
+]
